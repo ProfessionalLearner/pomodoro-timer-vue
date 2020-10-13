@@ -1,0 +1,36 @@
+{
+  "title": "Pomodoro Timer",
+  "nav": {
+      "settings": "Settings",
+      "about": {
+          "buttonName": "About",
+          "title": "Pomodoro Technique", 
+          "description": "Pomodoro Technique is the time management method developed by Francesco Cirillo for improving productivity. The original technique consists of following steps:",
+          "stepOne": "Decide the task.",
+          "stepTwo": "Set the pomodoro timer (25 minutes).",
+          "stepThree": "Work without distractions on the chosen task until time expires.",
+          "stepFour":  "Take a short break (5 minutes).",
+          "stepFive": "After every four “pomodoros”, take a long break (15 minutes).",
+          "tip": "If the original time intervals do not suite you, feel free to change time intervals by clicking “Settings”."
+      }
+  },
+  "tabs": {
+      "pomodoro": "Pomodoro",
+      "shortBreak": "Short Break",
+      "longBreak": "Long Break"
+  },
+  "timerButtons": {
+      "start": "Start",
+      "stop": "Stop",
+      "reset": "Reset"
+  },
+  "todoList": {
+      "placeholderText": "What do you need to do?",
+      "create": "Create",
+      "clear": "Clear"
+  },
+  "dialogButtons": {
+      "save": "Save",
+      "close": "Close"
+  }
+}
